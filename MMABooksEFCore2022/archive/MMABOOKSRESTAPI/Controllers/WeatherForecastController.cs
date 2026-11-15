@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace MMABOOKSRESTAPI.Controllers
+namespace MMABOOKSRESTAPI._2.Controllers
 {
     [ApiController]
     [Route("[controller]")]

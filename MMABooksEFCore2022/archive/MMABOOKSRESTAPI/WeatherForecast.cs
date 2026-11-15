@@ -1,4 +1,4 @@
-namespace MMABOOKSRESTAPI
+namespace MMABOOKSRESTAPI._2
 {
     public class WeatherForecast
     {
